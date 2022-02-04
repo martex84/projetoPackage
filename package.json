@@ -1,0 +1,11 @@
+{
+  "name": "testePackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/martex84/testePackage.git",
+  "author": "martex84 <martex849@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
